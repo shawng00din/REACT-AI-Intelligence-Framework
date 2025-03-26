@@ -318,7 +318,7 @@ At this level, AI systems can think abstractly and transfer knowledge across dom
 
 The REACT framework represents a developmental progression, with each level building upon the capabilities of previous levels. This progression is grounded in cognitive science principles that explain why certain capabilities naturally precede others:
 
-- **Recognition → Evaluation:**
+**Recognition → Evaluation:**
 
 - Development of internal quality metrics
 
@@ -326,7 +326,7 @@ The REACT framework represents a developmental progression, with each level buil
 
 - Shift from "what" to "how good"
 
-- **Evaluation → Analysis:**
+**Evaluation → Analysis:**
 
 - Development of causal understanding
 
@@ -334,7 +334,7 @@ The REACT framework represents a developmental progression, with each level buil
 
 - Shift from assessment to explanation
 
-- **Analysis → Correlation:**
+**Analysis → Correlation:**
 
 - Integration of knowledge across domains
 
@@ -342,7 +342,7 @@ The REACT framework represents a developmental progression, with each level buil
 
 - Shift from depth to breadth
 
-- **Correlation → Thinking:**
+**Correlation → Thinking:**
 
 - Development of abstract reasoning
 
