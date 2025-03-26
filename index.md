@@ -506,43 +506,29 @@ The framework's grounding in cognitive science principles provides both theoreti
 
   - Using the Tools of Cognitive Science to Understand Large Language Models at Different Levels of Analysis.
 
-  - [arXiv:2309.02852](https://arxiv.org/abs/2309.02852)
-
 - **Chollet, F. (2019).**
 
   - On the Measure of Intelligence.
-
-  - [arXiv:1911.01547](https://arxiv.org/abs/1911.01547)
 
 - **Bhatt, S., Jain, P., Niu, Y., Geyik, S. C., Kenthapadi, K., & Wang, H. (2024).**
 
   - PyRIT: A Framework for Security Risk Identification and Red Teaming in Generative AI Systems.*
 
-  - [arXiv:2402.10396](https://arxiv.org/abs/2402.10396)
-
 - **Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., ... & Barnes, P. (2023).**
 
   - Auditing Large Language Models: A Three-Layered Approach.
-
-  - [arXiv:2308.11764](https://arxiv.org/abs/2308.11764)
 
 ### GitHub Repositories
 
 - **KlotzJesse/neuralnetwork**
 
-  - [https://github.com/KlotzJesse/neuralnetwork](https://github.com/KlotzJesse/neuralnetwork)
-
   - Description: Java implementation of neural network architecture
 
 - **P-Programist/AI-ML-Projects**
 
-  - [https://github.com/P-Programist/AI-ML-Projects](https://github.com/P-Programist/AI-ML-Projects)
-
   - Description: Collection of AI and machine learning projects
 
 - **Aryia-Behroziuan/Overview**
-
-  - [https://github.com/Aryia-Behroziuan/Overview](https://github.com/Aryia-Behroziuan/Overview)
 
   - Description: Repository focused on knowledge representation in AI
 
@@ -550,42 +536,28 @@ The framework's grounding in cognitive science principles provides both theoreti
 
 - **Microsoft. (2023). AI Maturity Model.**
 
-  - [Microsoft AI Business School](https://learn.microsoft.com/en-us/training/modules/ai-strategy-in-a-digital-world/2-ai-maturity-model)
-
   - Description: Microsoft's framework for assessing organizational AI maturity
 
 - **PwC. (2022). AI Augmentation Spectrum.**
-
-  - [PwC Emerging Technology Research](https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence.html)
 
   - Description: PwC's framework for human-AI collaboration
 
 - **Deloitte. (2023). Augmented Intelligence Framework.**
 
-  - [Deloitte Insights](https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/artificial-intelligence-maturity-model.html)
-
   - Description: Deloitte's framework for AI's role in human productivity
 
 - **Gartner. (2023). Autonomous Systems Framework.**
-
-  - [Gartner Research](https://www.gartner.com/en/documents/4129588)
 
   - Description: Gartner's framework for categorizing AI involvement in work
 
 - **MIT Sloan Management Review. (2023). What's Your Company's AI Maturity Level?**
 
-  - [MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/whats-your-companys-ai-maturity-level)
-
   - Description: MIT's framework for assessing organizational AI maturity
 
 - **Harvard Business Review. (2022). Human-AI Teaming Model.**
 
-  - [HBR Analytics Services](https://hbr.org/sponsored/2022/03/how-to-build-a-successful-ai-team)
-
   - Description: HBR's model for AI as a teammate rather than a replacement
 
 - **Accenture. (2023). AI Maturity and Transformation.**
-
-  - [Accenture](https://www.accenture.com/us-en/insights/artificial-intelligence/ai-maturity-and-transformation)
 
   - Description: Accenture's framework for AI maturity assessment

@@ -1,2 +1,5 @@
 # Git ignore file
-# (Currently empty - index.md will be tracked) 
+# (Currently empty - index.md will be tracked)
+
+# macOS system files
+.DS_Store 
