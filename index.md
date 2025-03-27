@@ -1,6 +1,5 @@
-# Rethinking AI Intelligence: The REACT Framework
-
-**Shawn Goodin – 03-25-2025**
+title: [Rethinking AI Intelligence: The REACT Framework]
+description: [Author: Shawn Goodin]
 
 ## Abstract
 
