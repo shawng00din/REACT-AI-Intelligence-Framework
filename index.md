@@ -1,5 +1,5 @@
-title: [Rethinking AI Intelligence: The REACT Framework]
-description: [Author: Shawn Goodin]
+# Rethinking AI Intelligence: The REACT Framework
+**Author: Shawn Goodin**
 
 ## Abstract
 
