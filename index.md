@@ -1,5 +1,5 @@
 # Rethinking AI Intelligence: The REACT Framework
-**Author: Shawn Goodin**
+**Author: [Shawn Goodin](https://www.linkedin.com/in/shawndavidgoodin/)**
 
 ## Abstract
 
